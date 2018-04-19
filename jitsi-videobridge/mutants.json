@@ -1,0 +1,192 @@
+[
+  {
+    "name": "mutant-e672f11",
+    "dir": ".results/jitsi-videobridge/e672f1197ab401f4e04b735e00c4409219638efce0cadcb8ef2cff47cd6a70a9",
+    "hash": "e672f1197ab401f4e04b735e00c4409219638efce0cadcb8ef2cff47cd6a70a9",
+    "dependencies": [
+      {
+        "g": "org.fusesource",
+        "a": "sigar",
+        "v": "1.6.4"
+      },
+      {
+        "g": "org.igniterealtime",
+        "a": "tinder",
+        "v": "1.2.3"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-d75f69a",
+    "dir": ".results/jitsi-videobridge/d75f69ad5f1ad2830318cb231e8739f6298fd2246b5afc991570a7ae76c8d1b6",
+    "hash": "d75f69ad5f1ad2830318cb231e8739f6298fd2246b5afc991570a7ae76c8d1b6",
+    "dependencies": [
+      {
+        "g": "dom4j",
+        "a": "dom4j",
+        "v": "1.5.2"
+      },
+      {
+        "g": "org.igniterealtime.whack",
+        "a": "core",
+        "v": "2.0.0"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-d2f77f6",
+    "dir": ".results/jitsi-videobridge/d2f77f60ab9366aa245b8ff2c25510ca9102e42787654b867790e34c34dd5817",
+    "hash": "d2f77f60ab9366aa245b8ff2c25510ca9102e42787654b867790e34c34dd5817",
+    "dependencies": [
+      {
+        "g": "org.jetbrains",
+        "a": "annotations",
+        "v": "16.0.1"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-cd01841",
+    "dir": ".results/jitsi-videobridge/cd01841dcd121cd14e44cc53d92c910247022a38802328aa8ae25feb2681229b",
+    "hash": "cd01841dcd121cd14e44cc53d92c910247022a38802328aa8ae25feb2681229b",
+    "dependencies": [
+      {
+        "g": "org.osgi",
+        "a": "org.osgi.core",
+        "v": "4.2.0"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-1943170",
+    "dir": ".results/jitsi-videobridge/194317061d3c34758238c84792377f9fa6969a8ed25e57b433a592151e3a6422",
+    "hash": "194317061d3c34758238c84792377f9fa6969a8ed25e57b433a592151e3a6422",
+    "dependencies": [
+      {
+        "g": "org.fusesource",
+        "a": "sigar",
+        "v": "1.6.4"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-49415d9",
+    "dir": ".results/jitsi-videobridge/49415d978804383b423d161e77928bdfbac62dd81615b6a8e2a5301a602fccff",
+    "hash": "49415d978804383b423d161e77928bdfbac62dd81615b6a8e2a5301a602fccff",
+    "dependencies": [
+      {
+        "g": "org.jetbrains",
+        "a": "annotations",
+        "v": "13.0"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-25641ac",
+    "dir": ".results/jitsi-videobridge/25641acedf6e8cc834714dfd3aa6d6cd68fac44ba5aadfd6fc37e424cf25215f",
+    "hash": "25641acedf6e8cc834714dfd3aa6d6cd68fac44ba5aadfd6fc37e424cf25215f",
+    "dependencies": [
+      {
+        "g": "org.fusesource",
+        "a": "sigar",
+        "v": "1.6.4"
+      },
+      {
+        "g": "org.igniterealtime.smack",
+        "a": "smack-extensions",
+        "v": "4.3.0-beta1"
+      },
+      {
+        "g": "org.osgi",
+        "a": "org.osgi.core",
+        "v": "4.2.0"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-562ff49",
+    "dir": ".results/jitsi-videobridge/562ff49de2ade2e4c0f5dfaeaa4ab4036044f941eafb679cdc8c317b4041b9a5",
+    "hash": "562ff49de2ade2e4c0f5dfaeaa4ab4036044f941eafb679cdc8c317b4041b9a5",
+    "dependencies": [
+      {
+        "g": "dom4j",
+        "a": "dom4j",
+        "v": "1.6"
+      },
+      {
+        "g": "org.eclipse.jetty.websocket",
+        "a": "websocket-server",
+        "v": "9.2.23.v20171218"
+      },
+      {
+        "g": "org.fusesource",
+        "a": "sigar",
+        "v": "1.6.4"
+      },
+      {
+        "g": "org.jetbrains",
+        "a": "annotations",
+        "v": "13.0"
+      },
+      {
+        "g": "org.osgi",
+        "a": "org.osgi.core",
+        "v": "4.3.0"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-7db9f8e",
+    "dir": ".results/jitsi-videobridge/7db9f8ea7c7fa3144848f97bf4996d713a1ba0d75c1e744a3983e5f35e1dc285",
+    "hash": "7db9f8ea7c7fa3144848f97bf4996d713a1ba0d75c1e744a3983e5f35e1dc285",
+    "dependencies": [
+      {
+        "g": "org.eclipse.jetty.websocket",
+        "a": "websocket-server",
+        "v": "9.2.23.v20171218"
+      },
+      {
+        "g": "org.igniterealtime.smack",
+        "a": "smack-extensions",
+        "v": "4.3.0-beta1"
+      },
+      {
+        "g": "org.osgi",
+        "a": "org.osgi.core",
+        "v": "6.0.0"
+      }
+    ],
+    "valid": true
+  },
+  {
+    "name": "mutant-5f79b4a",
+    "dir": ".results/jitsi-videobridge/5f79b4a958a633679ddb07f7b2c099ead25d87bfd7b679a4fa790b731604d256",
+    "hash": "5f79b4a958a633679ddb07f7b2c099ead25d87bfd7b679a4fa790b731604d256",
+    "dependencies": [
+      {
+        "g": "org.slf4j",
+        "a": "slf4j-jdk14",
+        "v": "1.8.0-beta0"
+      },
+      {
+        "g": "org.slf4j",
+        "a": "osgi-over-slf4j",
+        "v": "1.8.0-beta0"
+      },
+      {
+        "g": "org.slf4j",
+        "a": "jul-to-slf4j",
+        "v": "1.8.0-beta0"
+      }
+    ],
+    "valid": true
+  }
+]
