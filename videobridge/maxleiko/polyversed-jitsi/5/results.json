@@ -1,0 +1,13 @@
+{
+  "name": "mutant-1943170",
+  "dir": ".results/jitsi-videobridge/194317061d3c34758238c84792377f9fa6969a8ed25e57b433a592151e3a6422",
+  "hash": "194317061d3c34758238c84792377f9fa6969a8ed25e57b433a592151e3a6422",
+  "dependencies": [
+    {
+      "g": "org.fusesource",
+      "a": "sigar",
+      "v": "1.6.4"
+    }
+  ],
+  "valid": true
+}

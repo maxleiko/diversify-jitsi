@@ -1,0 +1,18 @@
+{
+  "name": "mutant-d75f69a",
+  "dir": ".results/jitsi-videobridge/d75f69ad5f1ad2830318cb231e8739f6298fd2246b5afc991570a7ae76c8d1b6",
+  "hash": "d75f69ad5f1ad2830318cb231e8739f6298fd2246b5afc991570a7ae76c8d1b6",
+  "dependencies": [
+    {
+      "g": "dom4j",
+      "a": "dom4j",
+      "v": "1.5.2"
+    },
+    {
+      "g": "org.igniterealtime.whack",
+      "a": "core",
+      "v": "2.0.0"
+    }
+  ],
+  "valid": true
+}

@@ -1,0 +1,23 @@
+{
+  "name": "mutant-7db9f8e",
+  "dir": ".results/jitsi-videobridge/7db9f8ea7c7fa3144848f97bf4996d713a1ba0d75c1e744a3983e5f35e1dc285",
+  "hash": "7db9f8ea7c7fa3144848f97bf4996d713a1ba0d75c1e744a3983e5f35e1dc285",
+  "dependencies": [
+    {
+      "g": "org.eclipse.jetty.websocket",
+      "a": "websocket-server",
+      "v": "9.2.23.v20171218"
+    },
+    {
+      "g": "org.igniterealtime.smack",
+      "a": "smack-extensions",
+      "v": "4.3.0-beta1"
+    },
+    {
+      "g": "org.osgi",
+      "a": "org.osgi.core",
+      "v": "6.0.0"
+    }
+  ],
+  "valid": true
+}

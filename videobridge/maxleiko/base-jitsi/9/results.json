@@ -1,0 +1,18 @@
+{
+  "name": "mutant-e672f11",
+  "dir": ".results/jitsi-videobridge/e672f1197ab401f4e04b735e00c4409219638efce0cadcb8ef2cff47cd6a70a9",
+  "hash": "e672f1197ab401f4e04b735e00c4409219638efce0cadcb8ef2cff47cd6a70a9",
+  "dependencies": [
+    {
+      "g": "org.fusesource",
+      "a": "sigar",
+      "v": "1.6.4"
+    },
+    {
+      "g": "org.igniterealtime",
+      "a": "tinder",
+      "v": "1.2.3"
+    }
+  ],
+  "valid": true
+}

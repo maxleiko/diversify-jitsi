@@ -1,0 +1,13 @@
+{
+  "name": "mutant-49415d9",
+  "dir": ".results/jitsi-videobridge/49415d978804383b423d161e77928bdfbac62dd81615b6a8e2a5301a602fccff",
+  "hash": "49415d978804383b423d161e77928bdfbac62dd81615b6a8e2a5301a602fccff",
+  "dependencies": [
+    {
+      "g": "org.jetbrains",
+      "a": "annotations",
+      "v": "13.0"
+    }
+  ],
+  "valid": true
+}

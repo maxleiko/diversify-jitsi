@@ -1,0 +1,23 @@
+{
+  "name": "mutant-25641ac",
+  "dir": ".results/jitsi-videobridge/25641acedf6e8cc834714dfd3aa6d6cd68fac44ba5aadfd6fc37e424cf25215f",
+  "hash": "25641acedf6e8cc834714dfd3aa6d6cd68fac44ba5aadfd6fc37e424cf25215f",
+  "dependencies": [
+    {
+      "g": "org.fusesource",
+      "a": "sigar",
+      "v": "1.6.4"
+    },
+    {
+      "g": "org.igniterealtime.smack",
+      "a": "smack-extensions",
+      "v": "4.3.0-beta1"
+    },
+    {
+      "g": "org.osgi",
+      "a": "org.osgi.core",
+      "v": "4.2.0"
+    }
+  ],
+  "valid": true
+}

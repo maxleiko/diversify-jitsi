@@ -1,0 +1,13 @@
+{
+  "name": "mutant-d2f77f6",
+  "dir": ".results/jitsi-videobridge/d2f77f60ab9366aa245b8ff2c25510ca9102e42787654b867790e34c34dd5817",
+  "hash": "d2f77f60ab9366aa245b8ff2c25510ca9102e42787654b867790e34c34dd5817",
+  "dependencies": [
+    {
+      "g": "org.jetbrains",
+      "a": "annotations",
+      "v": "16.0.1"
+    }
+  ],
+  "valid": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "mutant-562ff49",
+  "dir": ".results/jitsi-videobridge/562ff49de2ade2e4c0f5dfaeaa4ab4036044f941eafb679cdc8c317b4041b9a5",
+  "hash": "562ff49de2ade2e4c0f5dfaeaa4ab4036044f941eafb679cdc8c317b4041b9a5",
+  "dependencies": [
+    {
+      "g": "dom4j",
+      "a": "dom4j",
+      "v": "1.6"
+    },
+    {
+      "g": "org.eclipse.jetty.websocket",
+      "a": "websocket-server",
+      "v": "9.2.23.v20171218"
+    },
+    {
+      "g": "org.fusesource",
+      "a": "sigar",
+      "v": "1.6.4"
+    },
+    {
+      "g": "org.jetbrains",
+      "a": "annotations",
+      "v": "13.0"
+    },
+    {
+      "g": "org.osgi",
+      "a": "org.osgi.core",
+      "v": "4.3.0"
+    }
+  ],
+  "valid": true
+}

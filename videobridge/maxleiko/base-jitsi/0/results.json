@@ -1,0 +1,23 @@
+{
+  "name": "mutant-5f79b4a",
+  "dir": ".results/jitsi-videobridge/5f79b4a958a633679ddb07f7b2c099ead25d87bfd7b679a4fa790b731604d256",
+  "hash": "5f79b4a958a633679ddb07f7b2c099ead25d87bfd7b679a4fa790b731604d256",
+  "dependencies": [
+    {
+      "g": "org.slf4j",
+      "a": "slf4j-jdk14",
+      "v": "1.8.0-beta0"
+    },
+    {
+      "g": "org.slf4j",
+      "a": "osgi-over-slf4j",
+      "v": "1.8.0-beta0"
+    },
+    {
+      "g": "org.slf4j",
+      "a": "jul-to-slf4j",
+      "v": "1.8.0-beta0"
+    }
+  ],
+  "valid": true
+}

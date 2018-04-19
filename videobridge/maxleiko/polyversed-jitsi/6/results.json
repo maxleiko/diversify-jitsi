@@ -1,0 +1,13 @@
+{
+  "name": "mutant-cd01841",
+  "dir": ".results/jitsi-videobridge/cd01841dcd121cd14e44cc53d92c910247022a38802328aa8ae25feb2681229b",
+  "hash": "cd01841dcd121cd14e44cc53d92c910247022a38802328aa8ae25feb2681229b",
+  "dependencies": [
+    {
+      "g": "org.osgi",
+      "a": "org.osgi.core",
+      "v": "4.2.0"
+    }
+  ],
+  "valid": true
+}
